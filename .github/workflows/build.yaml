@@ -3,7 +3,6 @@ run-name: ${{ github.actor }} is building Docker Images 🚀
 on: [push]
 jobs:
   build-images:
-    permissions: write-all
     runs-on: ubuntu-22.04
     steps:
       - name: Login to GitHub Container Registry
