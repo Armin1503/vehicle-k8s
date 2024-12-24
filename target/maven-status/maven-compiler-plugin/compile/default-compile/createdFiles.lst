@@ -1,0 +1,5 @@
+at/htlleonding/boundary/VehicleResource.class
+at/htlleonding/control/RestConfig.class
+META-INF/panache-archive.marker
+at/htlleonding/entity/Vehicle.class
+at/htlleonding/control/VehicleRepository.class
